@@ -1,4 +1,4 @@
-# Rapport de Laboratoire : Instrumentation Dynamique avec Frida
+# Rapport de Lab 10 : Guide d'installation de Frida
 
 ## Description
 Ce rapport documente la mise en place d'un environnement d'analyse dynamique sur Android. L'objectif est d'utiliser **Frida** pour inspecter les composants système, intercepter des fonctions natives et analyser les interactions Java au sein d'une application mobile.
@@ -74,8 +74,3 @@ Ce laboratoire a permis de valider la chaîne complète d'analyse dynamique :
 3.  Analyse des structures de bas niveau (mémoire, modules, crypto).
 
 Ces compétences sont essentielles pour les prochaines étapes : le contournement de mécanismes de sécurité (Root detection, SSL Pinning).
-
----
-**Réalisé par :** Ali BENRIOUI
-**Filière :** 4IIR - EMSI Marrakech
-**Projet :** Laboratoire Sécurité Mobile (Frida)
